@@ -2,7 +2,7 @@
 
 **Pronouns:** He/Him
 
-I'm a **platform architect** working in regulated financial services. Outside the day job, I'm a [**CNCF Ambassador**](https://www.cncf.io/people/ambassadors/), co-chair of the [**CNCF Cartografos Working Group**](https://github.com/cncf/cartografos), and co-author and maintainer of the [**Cloud Native Maturity Model**](https://maturitymodel.cncf.io/). I served as **Track Chair for Platform Engineering at [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/)**.
+I'm a **platform architect** working in regulated financial services, having started out in utilities. Outside the day job, I'm a [**CNCF Ambassador**](https://www.cncf.io/people/ambassadors/), co-chair of the [**CNCF Cartografos Working Group**](https://github.com/cncf/cartografos), and co-author and maintainer of the [**Cloud Native Maturity Model**](https://maturitymodel.cncf.io/). I served as **Track Chair for Platform Engineering at [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/)**.
 
 My community work focuses on three things: helping newcomers navigate cloud native, helping the community communicate its business value, and contributing technically to the platform engineering community.
 
@@ -22,7 +22,7 @@ A full chronological list of my CNCF speaking engagements, 2021–2026. Click an
 
 - **[KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/schedule/?id=1140658)** (Yokohama, July 2026 — upcoming) — *Turning Platform Engineering Work into Business Value Leadership Understands* (with Danielle Cook)
 - **[KubeCon + CloudNativeCon EU 2026](https://kccnceu2026.sched.com/event/2CVxz/)** (Amsterdam, March 2026) — *How to Build Your Cloud Native Balance Sheet* (with Danielle Cook)
-- **[Cloud Native University at the Cloud Native Theater, KubeCon EU 2026](https://kccnceu2026.sched.com/type/Solutions+Showcase/Cloud+Native+Theater)** (Amsterdam, March 2026) — Program Committee Co-Chair; Welcome + Closing Remarks (with Danielle Cook)
+- **[Cloud Native University at the Cloud Native Theater, KubeCon EU 2026](https://kccnceu2026.sched.com/type/Solutions+Showcase/Cloud+Native+Theater)** (Amsterdam, March 2026) — Program Committee Co-Chair (with Danielle Cook)
 - **[KyvernoCon EU 2026](https://colocatedeventseu2026.sched.com/event/2DY93/)** (Amsterdam, March 2026) — ⚡ *Lightning Talk: Know Your Policy Level: A Lightning Introduction* (with Danielle Cook)
 
 </details>
