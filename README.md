@@ -72,9 +72,7 @@ A full chronological list of my CNCF speaking engagements, 2021–2026. The full
 
 [**Cloud Native Balance Sheet**](https://sched.co/2CVxz) — A framework for communicating the business value of cloud native, introduced at KubeCon EU 2026 with Danielle Cook.
 
-[**Platform Engineering Maturity Model**](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/) — Contributor to v1.0 (TAG App Delivery, 2023). Reviewer on v2 (pending release).
-
-[**Platform Producer Factors**](https://github.com/cncf/cnpe-community) — Early reviewer on this emerging CNPE community white paper.
+[**Platform Engineering Maturity Model**](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/) — Contributor to v1.0 (TAG App Delivery, 2023).
 
 ## ✍️ Selected writing
 
