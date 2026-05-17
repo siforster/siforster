@@ -15,7 +15,7 @@ Happy to talk about cloud native maturity, platform engineering in regulated and
 
 ## 🎤 Talks
 
-A full chronological list of my CNCF speaking engagements, 2021–2026. Click any year to expand. The full canonical list (with recordings where available) is on my [Sessionize profile](https://sessionize.com/siforster/).
+A full chronological list of my CNCF speaking engagements, 2021–2026. Click any year to expand. Also check out my [Sessionize profile](https://sessionize.com/siforster/).
 
 <details open>
 <summary><b>2026</b> &mdash; 4 sessions</summary>
