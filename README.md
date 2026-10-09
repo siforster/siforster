@@ -1,8 +1,6 @@
 # Hi 👋, I'm Simon
 
-**Pronouns:** He/Him
-
-I'm a **platform architect** working in regulated financial services, having started out in utilities. Outside the day job, I'm a [**CNCF Ambassador**](https://www.cncf.io/people/ambassadors/), co-chair of the [**CNCF Cartografos Working Group**](https://github.com/cncf/cartografos), and co-author and maintainer of the [**Cloud Native Maturity Model**](https://maturitymodel.cncf.io/). I served as **Track Chair for Platform Engineering at [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/)**.
+I'm a **platform architect** working in regulated financial services, having started out in utilities. Outside the day job, I'm a [**CNCF Ambassador**](https://www.cncf.io/people/ambassadors/), co-chair of the [**CNCF Cartografos Working Group**](https://github.com/cncf/cartografos), and co-author and maintainer of the [**Cloud Native Maturity Model**](https://maturitymodel.cncf.io/). I was **Track Chair for Platform Engineering at [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/)**, and again at **[KubeCon + CloudNativeCon North America 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)**.
 
 My community work focuses on three things: helping newcomers navigate cloud native, helping the community communicate its business value, and contributing technically to the platform engineering community.
 
@@ -18,9 +16,11 @@ Happy to talk about cloud native maturity, platform engineering in regulated and
 A full chronological list of my CNCF speaking engagements, 2021–2026. Click any year to expand. Also check out my [Sessionize profile](https://sessionize.com/siforster/).
 
 <details open>
-<summary><b>2026</b> &mdash; 4 sessions</summary>
+<summary><b>2026</b> &mdash; 6 sessions</summary>
 
-- **[KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/schedule/?id=1140658)** (Yokohama, July 2026 — upcoming) — *Turning Platform Engineering Work into Business Value Leadership Understands* (with Danielle Cook)
+- **[KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1289735)** (Salt Lake City, November 2026 — upcoming) — Panel: *TAG DevEx State of the Union: What We're Shipping and Why It Matters*
+- **[Cloud Native University at the Cloud Native Theater, KubeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/cloud-native-theater/)** (Salt Lake City, November 2026 — upcoming) — Program Committee Co-Chair (with Danielle Cook)
+- **[KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/schedule/?id=1140658)** (Yokohama, July 2026) — *Turning Platform Engineering Work into Business Value Leadership Understands* (with Danielle Cook)
 - **[KubeCon + CloudNativeCon EU 2026](https://kccnceu2026.sched.com/event/2CVxz/)** (Amsterdam, March 2026) — *How to Build Your Cloud Native Balance Sheet* (with Danielle Cook)
 - **[Cloud Native University at the Cloud Native Theater, KubeCon EU 2026](https://kccnceu2026.sched.com/type/Solutions+Showcase/Cloud+Native+Theater)** (Amsterdam, March 2026) — Program Committee Co-Chair (with Danielle Cook)
 - **[KyvernoCon EU 2026](https://colocatedeventseu2026.sched.com/event/2DY93/)** (Amsterdam, March 2026) — ⚡ *Lightning Talk: Know Your Policy Level: A Lightning Introduction* (with Danielle Cook)
@@ -91,7 +91,7 @@ A full chronological list of my CNCF speaking engagements, 2021–2026. Click an
 
 [**Cartografos Working Group**](https://github.com/cncf/cartografos) — Co-chair. The group's mission is to help adopters and end-users navigate the CNCF landscape and the wider cloud native ecosystem.
 
-[**Cloud Native University**](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-university/) — Co-chair across three consecutive KubeCons (EU 2025 in London, NA 2025 in Atlanta, and EU 2026 in Amsterdam as the very first Cloud Native Theater event).
+[**Cloud Native University**](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-university/) — Co-chair across four consecutive KubeCons: EU 2025 in London, NA 2025 in Atlanta, EU 2026 in Amsterdam as the very first Cloud Native Theater event, and NA 2026 in Salt Lake City, again at the Cloud Native Theater.
 
 [**Cloud Native Balance Sheet**](https://sched.co/2CVxz) — A framework for communicating the business value of cloud native, introduced at KubeCon EU 2026 with Danielle Cook.
 
@@ -108,10 +108,13 @@ Full list of posts on my [LinkedIn](https://www.linkedin.com/in/forsters/).
 
 ## 🎖️ Badges
 
-A selection of recent CNCF roles. Full list on [Credly](https://www.credly.com/users/siforster/badges#credly).
+A selection of recent CNCF roles and talks. Full list on [Credly](https://www.credly.com/users/siforster/badges#credly).
 
-- [**CNCF Ambassador** (current term)](https://www.credly.com/badges/c198b06b-2e1c-4fa8-a76c-7bea77c09f04/public_url)
+- [**CNCF Ambassador** (current term)](https://www.credly.com/badges/fcf6c89b-6c96-47bc-b734-fbc2f5bc30cf/public_url)
+- [**Track Chair, Platform Engineering** — KubeCon + CloudNativeCon North America 2026](https://www.credly.com/badges/c4a95626-3064-4403-a7ff-b8df81494568/public_url)
 - [**Track Chair, Platform Engineering** — KubeCon + CloudNativeCon Europe 2026](https://www.credly.com/badges/736c7c41-389f-46c4-862d-c2b818de3da5/public_url)
+- [**Speaker** — KubeCon + CloudNativeCon Japan 2026](https://www.credly.com/badges/494bde68-6025-45de-bd26-b21bed2e02a9/public_url)
+- [**Speaker** — KubeCon + CloudNativeCon Europe 2026](https://www.credly.com/badges/996c539a-bf8f-4da4-ba70-e10922292850/public_url)
 - [**Program Committee Chair, Cloud Native University** — KubeCon + CloudNativeCon North America 2025](https://www.credly.com/badges/eb0c7fdf-f8fa-468f-848d-626c674ea817/public_url)
 - [**Program Committee Chair, Cloud Native University** — KubeCon + CloudNativeCon Europe 2025](https://www.credly.com/badges/7e84a5fd-3ef0-408c-ac8c-c18a5a36eaf8/public_url)
 - [**Program Committee Member** — KubeCon + CloudNativeCon North America 2025](https://www.credly.com/badges/8ed9bff0-dda0-4121-a52b-8f8e9c8546b7/public_url)
